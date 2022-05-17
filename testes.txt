@@ -1,2 +1,3 @@
 Neste arquivo vou escrever os testes da minha aplicação!
 Modifiquei a prikmeiria linha tiotalmente!
+Estou editando a área de testes para fazer exemplo de git pull!
